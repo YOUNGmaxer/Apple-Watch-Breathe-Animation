@@ -8,4 +8,5 @@ CSS Animation Training
 
 
 - create a new branch 'dev'
-- create a new branch "feature"
+- create a new branch 'feature1'
+
